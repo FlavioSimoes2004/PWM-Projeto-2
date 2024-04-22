@@ -120,7 +120,7 @@ header h1{
 .descricao-depoimento {
     color: black;
     text-align: justify;
-
+    margin-inline: 15px;
 }
 .descricao-segmento h3, .descricao-diferencial h3 {
     margin: 0;
